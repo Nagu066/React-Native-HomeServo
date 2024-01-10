@@ -28,7 +28,7 @@ export default function Login() {
   },[]);
   return (
     <View style={{alignItems:'center'}}>
-      <Image source={require('../../../assets/icon.png')}
+      <Image source={require('../../../assets/images/login.png')}
         style={styles.loginImage}
       />
       <View style={styles.subContainer}>
